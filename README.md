@@ -1,0 +1,2 @@
+# -Foxx-bot-
+Avertissement Foxx 🦊
